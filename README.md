@@ -1,2 +1,3 @@
 # hello-world
-Isso aqui é só um teste para o velha guarda aqui aprender sobre o GitHub
+Isso aqui é só um teste para o velha guarda aqui aprender sobre o GitHub.
+Incluindo algumas coisas para alterar o status anterior. 
